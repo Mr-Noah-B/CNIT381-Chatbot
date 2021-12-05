@@ -13,11 +13,22 @@ Step 1: Download all of the Bots files, and put them in a directory that can be 
 
 Step 2: Open the 381Bot.py file in Visual Studio Code, and fill out the bot_email, teams_token, and bot_url fields, with your bots Email, Webex Teams access token, and Webhook address respectively. Then, in the useless_skills.py file, put the bots Teams access token in the teams_token field.  
 
-The fields to fill out in 381Bot.py
-
-<img align="left" width="401" height="127" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-1.JPG" > 
+--The fields to fill out in 381Bot.py
+<img align="left" width="401" height="127" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-1.JPG"> 
  
-The field to fill out for useless_skills.py 
- 
+--The field to fill out for useless_skills.py  
 <img align="left" width="374" height="68" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-2.JPG">  
 
+Step 3: Update the routers.py file with your routers IP address
+
+Step 4: In Visual Studio Code, open a termianl in the directory where you put the files for the bot, and run the command **python3 381Bot.py**, which should run the bot in the terminal.
+
+--When the bot is running, it should look similar to this  
+<img align="left" width="1437" height="375" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-3.JPG">   
+  
+Step 5: Open up Webex Teams, find your bot, and begin chatting with it  
+  
+--An example of The bot being run
+ <img align="left" width="1437" height="375" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/GenieBotIntro.png">  
+
+And that is how, using the provided files, you can have a Webex Teams Chatbot running.
