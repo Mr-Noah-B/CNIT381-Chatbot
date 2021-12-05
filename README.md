@@ -20,5 +20,5 @@ The fields to fill out in 381Bot.py
 ---
 The field to fill out for useless_skills.py 
  
-<img align="left" width="100" height="100" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-2.JPG">  
+<img align="left" width="374" height="68" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-2.JPG">  
 
