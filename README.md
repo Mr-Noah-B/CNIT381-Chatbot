@@ -13,10 +13,10 @@ Step 1: Download all of the Bots files, and put them in a directory that can be 
 
 Step 2: Open the 381Bot.py file in Visual Studio Code, and fill out the bot_email, teams_token, and bot_url fields, with your bots Email, Webex Teams access token, and Webhook address respectively. Then, in the useless_skills.py file, put the bots Teams access token in the teams_token field.
 
-- The fields to fill out in 381Bot.py
-<img align="left" width="100" height="100" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-1.JPG">
+- The fields to fill out in 381Bot.py  
+<img align="left" width="100" height="100" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-1.JPG">  
 
-- The field to fill out for useless_skills.py
-![alt text](https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-2.JPG)
+- The field to fill out for useless_skills.py  
+<img align="left" width="100" height="100" src="https://github.com/Mr-Noah-B/CNIT381-Chatbot/blob/main/Img/Image-2.JPG">  
 
 
