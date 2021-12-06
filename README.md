@@ -4,8 +4,8 @@ A Chatbot created for the CNIT 381 final project
 This file is also used to help setup the bot, and run it off of your own computer. 
 
 Prerequisites:   
-Visual Studio Code: For editing the commands, as well as running the bot  
-Webex Account, Webex teams: For interacting with the bot, as well as creating new bots, if desired  
+Visual Studio Code: For editing the files, as well as running the bot  
+Webex Account, Webex teams: For interacting with and creating the bot, as well as creating new bots, if desired  
 A Web Hook using Ngrok: For the bot to be able to send and receive messages through Webex Teams. the command to get your webhook is **ngrok http 5000**  
 Bots Email & Teams Token: To fill out the necessary fields in the 381Bot.py and useless_skills.py files 
 
