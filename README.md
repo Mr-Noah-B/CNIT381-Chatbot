@@ -4,6 +4,7 @@ A Chatbot created for the CNIT 381 final project
 This file is also used to help setup the bot, and run it off of your own computer. 
 
 Prerequisites:   
+A Linux instance: A virtual machine would work well, but a host machine running linux should work too
 Visual Studio Code: For editing the files, as well as running the bot  
 Webex Account, Webex teams: For interacting with and creating the bot, as well as creating new bots, if desired  
 A Web Hook using Ngrok: For the bot to be able to send and receive messages through Webex Teams. the command to get your webhook is **ngrok http 5000**  
